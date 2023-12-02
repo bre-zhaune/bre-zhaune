@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bre-zhaune
-- 👀 I’m interested in ... IT Suppourt, Cybersecurity, Social Media Marketing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Cybersecurity & Media Marketing
+- 🌱 I’m currently learning python 🤦🏾‍♀️😞
+-  I’m willing to collaborate
+- 📫 How to reach me ... 📧
 
 <!---
 bre-zhaune/bre-zhaune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
